@@ -96,7 +96,8 @@ Graduated: July 2026
 
 I'm interested in connecting with AI professionals, developers, and organizations working on innovative AI solutions.
 
-- GitHub: [@AbdullahMun](https://github.com/AbdullahMun)
+- **LinkedIn:** [Abdullah bin Muneer](https://www.linkedin.com/in/abdullah-bin-muneer-4610262aa/)
+- **GitHub:** [AbdullahMun](https://github.com/AbdullahMun)
 
 ---
 
